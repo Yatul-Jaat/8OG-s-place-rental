@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🏡 StayEase – Airbnb Clone Web App
 
