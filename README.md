@@ -1,13 +1,13 @@
 ```markdown
-# 🏡 StayEase – Airbnb Clone Web App
+# 🏡 8OG's – Airbnb Clone Web App
 
-StayEase is a full-stack Airbnb-inspired web application where users can **book places to stay** and **list their own properties for rent**. The app is built using **React**, **Spring Boot**, and uses **H2 in-memory database** for fast development and testing.
+8OG's is a full-stack Airbnb-inspired web application where users can **book places to stay** and **list their own properties for rent**. The app is built using **React**, **Spring Boot**, and uses **H2 in-memory database** for fast development and testing.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 User login/signup (authentication layer can be added)
+- 🔐 User login/signup
 - 🏘️ View available places with full details
 - 📅 Book a place with price and information
 - 📤 List your own property with:
